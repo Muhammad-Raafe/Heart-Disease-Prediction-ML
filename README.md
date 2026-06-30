@@ -3,7 +3,7 @@
 An AI-powered web application that predicts cardiovascular disease risk using Logistic Regression.
 
 ## 🚀 Live Demo
-[Click here to try the app](#) <!-- Streamlit link yahan paste karna deploy ke baad -->
+https://heart-disease-prediction-ml-raafe.streamlit.app/
 
 ## 📌 Project Overview
 This project uses machine learning to assess heart disease risk based on patient clinical data. 
